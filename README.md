@@ -1,2 +1,2 @@
 # Demo
-demo purpose
+This project is for pure demo purpose
